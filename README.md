@@ -41,7 +41,7 @@ const colors = new ThemeManager({
 </Text>
 ```
 
-The first theme passed to `colors` (in this case `blueTheme`) is the default. To change the theme use the setTheme(theme) method from the api.
+The first theme passed to `ThemeManager` (in this case `blueTheme`) is the default. To change the theme use the setTheme(theme) method from the api.
 
 ## API
 
