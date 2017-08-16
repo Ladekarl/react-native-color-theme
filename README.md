@@ -45,8 +45,8 @@ The first theme passed to `colors` (in this case `blueTheme`) is the default. To
 
 ## API
 
-setTheme(theme) - theme is a string identifier. To change to redTheme in above example call colors.setTheme('redTheme')
-getTheme() - returns current theme
+* setTheme(theme) - theme is a string identifier. To change to redTheme in above example call colors.setTheme('redTheme')
+* getTheme() - returns current theme
 
 ## Questions or suggestions?
 Feel free to [open an issue] (https://github.com/stefalda/ReactNativeLocalization/issues/new).
