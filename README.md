@@ -49,4 +49,4 @@ The first theme passed to `colors` (in this case `blueTheme`) is the default. To
 * getTheme() - returns current theme
 
 ## Questions or suggestions?
-Feel free to [open an issue] (https://github.com/stefalda/ReactNativeLocalization/issues/new).
+Feel free to [open an issue] (https://github.com/Ladekarl/react-native-color-theme/issues/new).
