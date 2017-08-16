@@ -1,0 +1,28 @@
+{
+  "name": "react-native-color-theme",
+  "version": "0.0.1",
+  "description": "Simple theme manager for react native",
+  "main": "ThemeManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladekarl/react-native-color-theme.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "simple",
+    "theme",
+    "manager"
+  ],
+  "author": "Niels Ladekarl <nielsladekarl@gmail.com> (https://github.com/Ladekarl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ladekarl/react-native-color-theme/issues"
+  },
+  "homepage": "https://github.com/Ladekarl/react-native-color-theme#readme"
+}
