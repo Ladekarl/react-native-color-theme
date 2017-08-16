@@ -1,6 +1,6 @@
 'use strict';
 
-export default class Theme {
+class ThemeManager {
   _props;
   _theme;
 
@@ -31,3 +31,5 @@ export default class Theme {
     return this._theme;
   }
 }
+
+module.exports = ThemeManager;
