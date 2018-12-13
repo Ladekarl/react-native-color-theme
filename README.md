@@ -49,4 +49,4 @@ The first theme passed to `ThemeManager` (in this case `blueTheme`) is the defau
 * getTheme() - returns current theme
 
 ## Questions or suggestions?
-Feel free to [Open an Issue](https://github.com/Ladekarl/react-native-color-theme/issues/new)
+Feel free to [open an issue](https://github.com/Ladekarl/react-native-color-theme/issues/new)
